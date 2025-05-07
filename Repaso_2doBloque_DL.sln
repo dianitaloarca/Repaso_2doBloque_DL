@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso_2doBloque_DL", "Repaso_2doBloque_DL.csproj", "{2EFD1D1C-F821-4F39-9CE5-68140DBF8FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFD1D1C-F821-4F39-9CE5-68140DBF8FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFD1D1C-F821-4F39-9CE5-68140DBF8FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFD1D1C-F821-4F39-9CE5-68140DBF8FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFD1D1C-F821-4F39-9CE5-68140DBF8FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49EC73C-F3D3-46DB-A67D-8143113FD755}
+	EndGlobalSection
+EndGlobal
